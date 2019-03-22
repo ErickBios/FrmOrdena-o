@@ -35,7 +35,9 @@ public class FrmOrdenacao extends javax.swing.JFrame {
                        }
                    }
                }
-            /*for(int j = 0; j < vetor.length; j++){
+            /*
+            
+           for(int j = 0; j < vetor.length; j++){
                 System.out.println("Palavra: " + vetor[j] + "Tamanho: " + vetor[j].length());
             }*/
             try {
