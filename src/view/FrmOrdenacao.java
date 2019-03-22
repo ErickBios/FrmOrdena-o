@@ -131,7 +131,7 @@ public class FrmOrdenacao extends javax.swing.JFrame {
         }
         
                try {
-           // Cria arquivo
+           // Cria arquivo novo motificador 
            File file = new File("Ordenados.txt");
 
            // Se o arquivo nao existir, ele gera
