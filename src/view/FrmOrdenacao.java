@@ -139,7 +139,7 @@ public class FrmOrdenacao extends javax.swing.JFrame {
                file.createNewFile();
            }
 
-           // Prepara para escrever no arquivo
+           // Prepara para escrever no arquivo novo
            FileWriter fw = new FileWriter(file.getAbsoluteFile());
            BufferedWriter bw = new BufferedWriter(fw);
 
